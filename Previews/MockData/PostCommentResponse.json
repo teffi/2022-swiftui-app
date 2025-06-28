@@ -1,0 +1,41 @@
+{
+  "comment": {
+    "id":"12",
+    "body":"This is a sample comment",
+    "user":{
+      "id":"2",
+      "display_name":"Steffi T.",
+      "user_name":"teffi",
+      "description":"I build apps",
+      "profile_image":{
+        "small_image_url":"https://picsum.photos/200/200",
+        "medium_image_url":"https://picsum.photos/300/300",
+        "large_image_url":"https://picsum.photos/500/500",
+        "original_image_url":"https://picsum.photos/800/800"
+      }
+    },
+    "review":{
+      "id":"47",
+      "body":"Best granola I’ve ever tried! Not too seeet and chocolatey, but definitely not boring and bland! Can finish one pack in less than 10 minutes witogut realizing it hehe 😅",
+      "kind":"love",
+      "created_at":"Mar 07, 2022 02:53PM",
+      "like_count":3,
+      "is_highlighted":false,
+      "has_liked":false,
+      "shareable_url":"/reviews/erAsEwErKedvx9LAPsoYoz8Lw9Uu1S4J",
+      "user":{
+        "id":"9",
+        "display_name":"Mara M.",
+        "full_name":"Mara Mercado",
+        "user_name":"jessicamara09",
+        "description":"Mermaid during weekends",
+        "profile_image":{
+          "small_image_url":"https://picsum.photos/200/200",
+          "medium_image_url":"https://picsum.photos/300/300",
+          "large_image_url":"https://picsum.photos/500/500",
+          "original_image_url":"https://picsum.photos/800/800"
+        }
+      }
+    }
+  }
+}

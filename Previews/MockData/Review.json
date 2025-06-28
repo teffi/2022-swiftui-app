@@ -1,0 +1,93 @@
+{
+  "id":"38",
+  "body":"This has now been my daily driver for productivity and programming. It switches smoothly between devices no matter what OS I’m using, and the keys feel great despite not being mechanical. Would highly recommend this to anyone looking for a high value wireless keyboard! 😄",
+  "kind":"love",
+  "created_at":"Mar 04, 2022 09:31AM",
+  "like_count":3,
+  "is_highlighted":false,
+  "has_liked":false,
+  "comment_count": 10,
+  "images":[
+    {
+    "small_image_url":"https://picsum.photos/200/200",
+    "medium_image_url":"https://picsum.photos/300/300",
+    "large_image_url":"https://picsum.photos/500/500",
+    "original_image_url":"https://picsum.photos/800/800"
+    }
+  ],
+  "user":{
+    "id":"22",
+    "display_name":"John A.",
+    "full_name":"John Appleseed",
+    "user_name":"johntheapple",
+    "description":"Gamer and coffee lover",
+    "profile_image":{
+      "small_image_url":"https://picsum.photos/200/200",
+      "medium_image_url":"https://picsum.photos/300/300",
+      "large_image_url":"https://picsum.photos/500/500",
+      "original_image_url":"https://picsum.photos/800/800"
+    }
+  },
+  "comments":[
+    {
+      "id":"11",
+      "body":"This is helpful!",
+      "user":{
+        "id":"1",
+        "display_name":" .",
+        "user_name":"dash.admin",
+        "profile_image":{
+          "small_image_url":"https://picsum.photos/200/200",
+          "medium_image_url":"https://picsum.photos/300/300",
+          "large_image_url":"https://picsum.photos/500/500",
+          "original_image_url":"https://picsum.photos/800/800"
+        }
+      }
+    },
+    {
+      "id":"12",
+      "body":"This is a sample comment",
+      "user":{
+        "id":"2",
+        "display_name":"Steffi T.",
+        "user_name":"teffi",
+        "description":"I build apps",
+        "profile_image":{
+          "small_image_url":"https://picsum.photos/200/200",
+          "medium_image_url":"https://picsum.photos/300/300",
+          "large_image_url":"https://picsum.photos/500/500",
+          "original_image_url":"https://picsum.photos/800/800"
+        }
+      }
+    }
+  ],
+  "product":{
+    "id":"777",
+    "display_name":"Logitech K480 Wireless Multi-Device Keyboard for Windows, macOS, iPadOS, Android or Chrome OS, Bluetooth, Compact, Compatible with PC, Mac, Laptop, Smartphone, Tablet - Black",
+    "love_count":2,
+    "hate_count":0,
+    "review_count":2,
+    "image":{
+      "small_image_url":"https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/qyfc7ce7ilh2wzsqzuvop1oh1ted?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220315%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220315T061955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de51321e00c68aba32c6ebe55d88f7b0dccd61b1644c1d4c2a14e0be6b0ba244",
+      "medium_image_url":"https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/h9brvuq3r2wexqyq6z2xa1p5b3kl?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220315%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220315T061955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=12148d3f58288b292ce4f4a599ea7756d9a30c47e296b780488f7de6b46905a0",
+      "large_image_url":"https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/06nefooqvnjl9rs76du1kqwhg3hu?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220315%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220315T061955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b71252491983b7afa2c2969a86050978c7b23dff0489c4810453933773c77f8",
+      "original_image_url":"https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/re2grayh3iwpqq0xpxis08rbxde5?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220315%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220315T061955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=15bbcfec6150ddbc0dfe28f4fadcdd981bff92ac52f3fd0c112af5096300342e"
+    },
+    "user":{
+      "id":"2",
+      "display_name":"Steffi T.",
+      "user_name":"teffi",
+      "description":"I build apps",
+      "profile_image":{
+        "small_image_url":"https://picsum.photos/200/200",
+        "medium_image_url":"https://picsum.photos/300/300",
+        "large_image_url":"https://picsum.photos/500/500",
+        "original_image_url":"https://picsum.photos/800/800"
+      }
+    }
+  },
+  "images":[
+    
+  ],
+  "shareable_url":"https://dash.staging-dash.com/api/v1/reviews/Y7K4DQDJNprFGyqjoMs3eT7DZIwUNSdt"
+}

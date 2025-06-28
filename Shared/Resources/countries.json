@@ -1,0 +1,962 @@
+[
+  {
+    "phone_code": "93",
+    "iso_code": "AF"
+  },
+  {
+    "phone_code": "355",
+    "iso_code": "AL"
+  },
+  {
+    "phone_code": "213",
+    "iso_code": "DZ"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "AS"
+  },
+  {
+    "phone_code": "376",
+    "iso_code": "AD"
+  },
+  {
+    "phone_code": "244",
+    "iso_code": "AO"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "AI"
+  },
+  {
+    "phone_code": "672",
+    "iso_code": "AQ"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "AG"
+  },
+  {
+    "phone_code": "54",
+    "iso_code": "AR"
+  },
+  {
+    "phone_code": "374",
+    "iso_code": "AM"
+  },
+  {
+    "phone_code": "297",
+    "iso_code": "AW"
+  },
+  {
+    "phone_code": "61",
+    "iso_code": "AU"
+  },
+  {
+    "phone_code": "43",
+    "iso_code": "AT"
+  },
+  {
+    "phone_code": "994",
+    "iso_code": "AZ"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "BS"
+  },
+  {
+    "phone_code": "973",
+    "iso_code": "BH"
+  },
+  {
+    "phone_code": "880",
+    "iso_code": "BD"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "BB"
+  },
+  {
+    "phone_code": "375",
+    "iso_code": "BY"
+  },
+  {
+    "phone_code": "32",
+    "iso_code": "BE"
+  },
+  {
+    "phone_code": "501",
+    "iso_code": "BZ"
+  },
+  {
+    "phone_code": "229",
+    "iso_code": "BJ"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "BM"
+  },
+  {
+    "phone_code": "975",
+    "iso_code": "BT"
+  },
+  {
+    "phone_code": "591",
+    "iso_code": "BO"
+  },
+  {
+    "phone_code": "387",
+    "iso_code": "BA"
+  },
+  {
+    "phone_code": "267",
+    "iso_code": "BW"
+  },
+  {
+    "phone_code": "55",
+    "iso_code": "BR"
+  },
+  {
+    "phone_code": "246",
+    "iso_code": "IO"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "VG"
+  },
+  {
+    "phone_code": "673",
+    "iso_code": "BN"
+  },
+  {
+    "phone_code": "359",
+    "iso_code": "BG"
+  },
+  {
+    "phone_code": "226",
+    "iso_code": "BF"
+  },
+  {
+    "phone_code": "257",
+    "iso_code": "BI"
+  },
+  {
+    "phone_code": "855",
+    "iso_code": "KH"
+  },
+  {
+    "phone_code": "237",
+    "iso_code": "CM"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "CA"
+  },
+  {
+    "phone_code": "238",
+    "iso_code": "CV"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "KY"
+  },
+  {
+    "phone_code": "236",
+    "iso_code": "CF"
+  },
+  {
+    "phone_code": "235",
+    "iso_code": "TD"
+  },
+  {
+    "phone_code": "56",
+    "iso_code": "CL"
+  },
+  {
+    "phone_code": "86",
+    "iso_code": "CN"
+  },
+  {
+    "phone_code": "61",
+    "iso_code": "CX"
+  },
+  {
+    "phone_code": "61",
+    "iso_code": "CC"
+  },
+  {
+    "phone_code": "57",
+    "iso_code": "CO"
+  },
+  {
+    "phone_code": "269",
+    "iso_code": "KM"
+  },
+  {
+    "phone_code": "682",
+    "iso_code": "CK"
+  },
+  {
+    "phone_code": "506",
+    "iso_code": "CR"
+  },
+  {
+    "phone_code": "385",
+    "iso_code": "HR"
+  },
+  {
+    "phone_code": "53",
+    "iso_code": "CU"
+  },
+  {
+    "phone_code": "599",
+    "iso_code": "CW"
+  },
+  {
+    "phone_code": "357",
+    "iso_code": "CY"
+  },
+  {
+    "phone_code": "420",
+    "iso_code": "CZ"
+  },
+  {
+    "phone_code": "243",
+    "iso_code": "CD"
+  },
+  {
+    "phone_code": "45",
+    "iso_code": "DK"
+  },
+  {
+    "phone_code": "253",
+    "iso_code": "DJ"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "DM"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "DO"
+  },
+  {
+    "phone_code": "670",
+    "iso_code": "TL"
+  },
+  {
+    "phone_code": "593",
+    "iso_code": "EC"
+  },
+  {
+    "phone_code": "20",
+    "iso_code": "EG"
+  },
+  {
+    "phone_code": "503",
+    "iso_code": "SV"
+  },
+  {
+    "phone_code": "240",
+    "iso_code": "GQ"
+  },
+  {
+    "phone_code": "291",
+    "iso_code": "ER"
+  },
+  {
+    "phone_code": "372",
+    "iso_code": "EE"
+  },
+  {
+    "phone_code": "251",
+    "iso_code": "ET"
+  },
+  {
+    "phone_code": "500",
+    "iso_code": "FK"
+  },
+  {
+    "phone_code": "298",
+    "iso_code": "FO"
+  },
+  {
+    "phone_code": "679",
+    "iso_code": "FJ"
+  },
+  {
+    "phone_code": "358",
+    "iso_code": "FI"
+  },
+  {
+    "phone_code": "33",
+    "iso_code": "FR"
+  },
+  {
+    "phone_code": "689",
+    "iso_code": "PF"
+  },
+  {
+    "phone_code": "241",
+    "iso_code": "GA"
+  },
+  {
+    "phone_code": "220",
+    "iso_code": "GM"
+  },
+  {
+    "phone_code": "995",
+    "iso_code": "GE"
+  },
+  {
+    "phone_code": "49",
+    "iso_code": "DE"
+  },
+  {
+    "phone_code": "233",
+    "iso_code": "GH"
+  },
+  {
+    "phone_code": "350",
+    "iso_code": "GI"
+  },
+  {
+    "phone_code": "30",
+    "iso_code": "GR"
+  },
+  {
+    "phone_code": "299",
+    "iso_code": "GL"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "GD"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "GU"
+  },
+  {
+    "phone_code": "502",
+    "iso_code": "GT"
+  },
+  {
+    "phone_code": "44",
+    "iso_code": "GG"
+  },
+  {
+    "phone_code": "224",
+    "iso_code": "GN"
+  },
+  {
+    "phone_code": "245",
+    "iso_code": "GW"
+  },
+  {
+    "phone_code": "592",
+    "iso_code": "GY"
+  },
+  {
+    "phone_code": "509",
+    "iso_code": "HT"
+  },
+  {
+    "phone_code": "504",
+    "iso_code": "HN"
+  },
+  {
+    "phone_code": "852",
+    "iso_code": "HK"
+  },
+  {
+    "phone_code": "36",
+    "iso_code": "HU"
+  },
+  {
+    "phone_code": "354",
+    "iso_code": "IS"
+  },
+  {
+    "phone_code": "91",
+    "iso_code": "IN"
+  },
+  {
+    "phone_code": "62",
+    "iso_code": "ID"
+  },
+  {
+    "phone_code": "98",
+    "iso_code": "IR"
+  },
+  {
+    "phone_code": "964",
+    "iso_code": "IQ"
+  },
+  {
+    "phone_code": "353",
+    "iso_code": "IE"
+  },
+  {
+    "phone_code": "44",
+    "iso_code": "IM"
+  },
+  {
+    "phone_code": "972",
+    "iso_code": "IL"
+  },
+  {
+    "phone_code": "39",
+    "iso_code": "IT"
+  },
+  {
+    "phone_code": "225",
+    "iso_code": "CI"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "JM"
+  },
+  {
+    "phone_code": "81",
+    "iso_code": "JP"
+  },
+  {
+    "phone_code": "44",
+    "iso_code": "JE"
+  },
+  {
+    "phone_code": "962",
+    "iso_code": "JO"
+  },
+  {
+    "phone_code": "7",
+    "iso_code": "KZ"
+  },
+  {
+    "phone_code": "254",
+    "iso_code": "KE"
+  },
+  {
+    "phone_code": "686",
+    "iso_code": "KI"
+  },
+  {
+    "phone_code": "383",
+    "iso_code": "XK"
+  },
+  {
+    "phone_code": "965",
+    "iso_code": "KW"
+  },
+  {
+    "phone_code": "996",
+    "iso_code": "KG"
+  },
+  {
+    "phone_code": "856",
+    "iso_code": "LA"
+  },
+  {
+    "phone_code": "371",
+    "iso_code": "LV"
+  },
+  {
+    "phone_code": "961",
+    "iso_code": "LB"
+  },
+  {
+    "phone_code": "266",
+    "iso_code": "LS"
+  },
+  {
+    "phone_code": "231",
+    "iso_code": "LR"
+  },
+  {
+    "phone_code": "218",
+    "iso_code": "LY"
+  },
+  {
+    "phone_code": "423",
+    "iso_code": "LI"
+  },
+  {
+    "phone_code": "370",
+    "iso_code": "LT"
+  },
+  {
+    "phone_code": "352",
+    "iso_code": "LU"
+  },
+  {
+    "phone_code": "853",
+    "iso_code": "MO"
+  },
+  {
+    "phone_code": "389",
+    "iso_code": "MK"
+  },
+  {
+    "phone_code": "261",
+    "iso_code": "MG"
+  },
+  {
+    "phone_code": "265",
+    "iso_code": "MW"
+  },
+  {
+    "phone_code": "60",
+    "iso_code": "MY"
+  },
+  {
+    "phone_code": "960",
+    "iso_code": "MV"
+  },
+  {
+    "phone_code": "223",
+    "iso_code": "ML"
+  },
+  {
+    "phone_code": "356",
+    "iso_code": "MT"
+  },
+  {
+    "phone_code": "692",
+    "iso_code": "MH"
+  },
+  {
+    "phone_code": "222",
+    "iso_code": "MR"
+  },
+  {
+    "phone_code": "230",
+    "iso_code": "MU"
+  },
+  {
+    "phone_code": "262",
+    "iso_code": "YT"
+  },
+  {
+    "phone_code": "52",
+    "iso_code": "MX"
+  },
+  {
+    "phone_code": "691",
+    "iso_code": "FM"
+  },
+  {
+    "phone_code": "373",
+    "iso_code": "MD"
+  },
+  {
+    "phone_code": "377",
+    "iso_code": "MC"
+  },
+  {
+    "phone_code": "976",
+    "iso_code": "MN"
+  },
+  {
+    "phone_code": "382",
+    "iso_code": "ME"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "MS"
+  },
+  {
+    "phone_code": "212",
+    "iso_code": "MA"
+  },
+  {
+    "phone_code": "258",
+    "iso_code": "MZ"
+  },
+  {
+    "phone_code": "95",
+    "iso_code": "MM"
+  },
+  {
+    "phone_code": "264",
+    "iso_code": "NA"
+  },
+  {
+    "phone_code": "674",
+    "iso_code": "NR"
+  },
+  {
+    "phone_code": "977",
+    "iso_code": "NP"
+  },
+  {
+    "phone_code": "31",
+    "iso_code": "NL"
+  },
+  {
+    "phone_code": "599",
+    "iso_code": "AN"
+  },
+  {
+    "phone_code": "687",
+    "iso_code": "NC"
+  },
+  {
+    "phone_code": "64",
+    "iso_code": "NZ"
+  },
+  {
+    "phone_code": "505",
+    "iso_code": "NI"
+  },
+  {
+    "phone_code": "227",
+    "iso_code": "NE"
+  },
+  {
+    "phone_code": "234",
+    "iso_code": "NG"
+  },
+  {
+    "phone_code": "683",
+    "iso_code": "NU"
+  },
+  {
+    "phone_code": "850",
+    "iso_code": "KP"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "MP"
+  },
+  {
+    "phone_code": "47",
+    "iso_code": "NO"
+  },
+  {
+    "phone_code": "968",
+    "iso_code": "OM"
+  },
+  {
+    "phone_code": "92",
+    "iso_code": "PK"
+  },
+  {
+    "phone_code": "680",
+    "iso_code": "PW"
+  },
+  {
+    "phone_code": "970",
+    "iso_code": "PS"
+  },
+  {
+    "phone_code": "507",
+    "iso_code": "PA"
+  },
+  {
+    "phone_code": "675",
+    "iso_code": "PG"
+  },
+  {
+    "phone_code": "595",
+    "iso_code": "PY"
+  },
+  {
+    "phone_code": "51",
+    "iso_code": "PE"
+  },
+  {
+    "phone_code": "63",
+    "iso_code": "PH"
+  },
+  {
+    "phone_code": "64",
+    "iso_code": "PN"
+  },
+  {
+    "phone_code": "48",
+    "iso_code": "PL"
+  },
+  {
+    "phone_code": "351",
+    "iso_code": "PT"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "PR"
+  },
+  {
+    "phone_code": "974",
+    "iso_code": "QA"
+  },
+  {
+    "phone_code": "242",
+    "iso_code": "CG"
+  },
+  {
+    "phone_code": "262",
+    "iso_code": "RE"
+  },
+  {
+    "phone_code": "40",
+    "iso_code": "RO"
+  },
+  {
+    "phone_code": "7",
+    "iso_code": "RU"
+  },
+  {
+    "phone_code": "250",
+    "iso_code": "RW"
+  },
+  {
+    "phone_code": "590",
+    "iso_code": "BL"
+  },
+  {
+    "phone_code": "290",
+    "iso_code": "SH"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "KN"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "LC"
+  },
+  {
+    "phone_code": "590",
+    "iso_code": "MF"
+  },
+  {
+    "phone_code": "508",
+    "iso_code": "PM"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "VC"
+  },
+  {
+    "phone_code": "685",
+    "iso_code": "WS"
+  },
+  {
+    "phone_code": "378",
+    "iso_code": "SM"
+  },
+  {
+    "phone_code": "239",
+    "iso_code": "ST"
+  },
+  {
+    "phone_code": "966",
+    "iso_code": "SA"
+  },
+  {
+    "phone_code": "221",
+    "iso_code": "SN"
+  },
+  {
+    "phone_code": "381",
+    "iso_code": "RS"
+  },
+  {
+    "phone_code": "248",
+    "iso_code": "SC"
+  },
+  {
+    "phone_code": "232",
+    "iso_code": "SL"
+  },
+  {
+    "phone_code": "65",
+    "iso_code": "SG"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "SX"
+  },
+  {
+    "phone_code": "421",
+    "iso_code": "SK"
+  },
+  {
+    "phone_code": "386",
+    "iso_code": "SI"
+  },
+  {
+    "phone_code": "677",
+    "iso_code": "SB"
+  },
+  {
+    "phone_code": "252",
+    "iso_code": "SO"
+  },
+  {
+    "phone_code": "27",
+    "iso_code": "ZA"
+  },
+  {
+    "phone_code": "82",
+    "iso_code": "KR"
+  },
+  {
+    "phone_code": "211",
+    "iso_code": "SS"
+  },
+  {
+    "phone_code": "34",
+    "iso_code": "ES"
+  },
+  {
+    "phone_code": "94",
+    "iso_code": "LK"
+  },
+  {
+    "phone_code": "249",
+    "iso_code": "SD"
+  },
+  {
+    "phone_code": "597",
+    "iso_code": "SR"
+  },
+  {
+    "phone_code": "47",
+    "iso_code": "SJ"
+  },
+  {
+    "phone_code": "268",
+    "iso_code": "SZ"
+  },
+  {
+    "phone_code": "46",
+    "iso_code": "SE"
+  },
+  {
+    "phone_code": "41",
+    "iso_code": "CH"
+  },
+  {
+    "phone_code": "963",
+    "iso_code": "SY"
+  },
+  {
+    "phone_code": "886",
+    "iso_code": "TW"
+  },
+  {
+    "phone_code": "992",
+    "iso_code": "TJ"
+  },
+  {
+    "phone_code": "255",
+    "iso_code": "TZ"
+  },
+  {
+    "phone_code": "66",
+    "iso_code": "TH"
+  },
+  {
+    "phone_code": "228",
+    "iso_code": "TG"
+  },
+  {
+    "phone_code": "690",
+    "iso_code": "TK"
+  },
+  {
+    "phone_code": "676",
+    "iso_code": "TO"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "TT"
+  },
+  {
+    "phone_code": "216",
+    "iso_code": "TN"
+  },
+  {
+    "phone_code": "90",
+    "iso_code": "TR"
+  },
+  {
+    "phone_code": "993",
+    "iso_code": "TM"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "TC"
+  },
+  {
+    "phone_code": "688",
+    "iso_code": "TV"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "VI"
+  },
+  {
+    "phone_code": "256",
+    "iso_code": "UG"
+  },
+  {
+    "phone_code": "380",
+    "iso_code": "UA"
+  },
+  {
+    "phone_code": "971",
+    "iso_code": "AE"
+  },
+  {
+    "phone_code": "44",
+    "iso_code": "GB"
+  },
+  {
+    "phone_code": "1",
+    "iso_code": "US"
+  },
+  {
+    "phone_code": "598",
+    "iso_code": "UY"
+  },
+  {
+    "phone_code": "998",
+    "iso_code": "UZ"
+  },
+  {
+    "phone_code": "678",
+    "iso_code": "VU"
+  },
+  {
+    "phone_code": "379",
+    "iso_code": "VA"
+  },
+  {
+    "phone_code": "58",
+    "iso_code": "VE"
+  },
+  {
+    "phone_code": "84",
+    "iso_code": "VN"
+  },
+  {
+    "phone_code": "681",
+    "iso_code": "WF"
+  },
+  {
+    "phone_code": "212",
+    "iso_code": "EH"
+  },
+  {
+    "phone_code": "967",
+    "iso_code": "YE"
+  },
+  {
+    "phone_code": "260",
+    "iso_code": "ZM"
+  },
+  {
+    "phone_code": "263",
+    "iso_code": "ZW"
+  }
+]

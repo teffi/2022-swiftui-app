@@ -1,0 +1,19 @@
+{
+  "product": {
+    "id": "176",
+    "display_name": "The Ordinary Vitamin C Suspension 30% in Silicone",
+    "love_count": 0,
+    "hate_count": 0,
+    "review_count": 0,
+    "image": {
+      "small_image_url": "https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/xk64hewegl6o4zxbh0rvk84l2mvm?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220314%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220314T111705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1bfef6bc2e7447bf0fe54cb8c05cd23af0df26cf8cf08467e5b66fc554c4cff",
+      "medium_image_url": "https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/w0ws2intd2st9qrvgza0cq6yuoqs?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220314%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220314T111705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9c99880c661013b32ed110c8ab519ff8cca18e54348c6bd621103f392f82c0e9",
+      "large_image_url": "https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/jmj867mpzjzcmuydluqryjqnuloc?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220314%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220314T111705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efc1645736e0bcde027d784081ded20da2ae80b113837e54be497fa2edc70e79",
+      "original_image_url": "https://dash-dev-temp.s3.ap-southeast-1.amazonaws.com/sx1f04q071ynbbcb94liwcarjyyh?response-content-disposition=inline%3B%20filename%3D%22image.jpg%22%3B%20filename%2A%3DUTF-8%27%27image.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4LCSNWDE36LU3UMS%2F20220314%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20220314T111705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=abd65a096e5cff852f69d38a8e618c9b00709a6ebc71a706c31d645877548dc7"
+    },
+    "has_reviewed": false,
+    "has_subscribed": false
+  },
+  "code": 200,
+  "server_timestamp": "2022-03-14T19:17:05.170+0800"
+}

@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BetterSafariView",
+        "repositoryURL": "https://github.com/stleamist/BetterSafariView.git",
+        "state": {
+          "branch": null,
+          "revision": "be7248720af18c57c7a1348b20f6212379b28c6b",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "Cloudinary",
+        "repositoryURL": "https://github.com/cloudinary/cloudinary_ios",
+        "state": {
+          "branch": null,
+          "revision": "b12303417088fa15e9ea9569890ab85005d261fa",
+          "version": "3.2.1"
+        }
+      },
+      {
+        "package": "PopupView",
+        "repositoryURL": "https://github.com/exyte/PopupView.git",
+        "state": {
+          "branch": null,
+          "revision": "77c04cef5651a07ab795f8b4edeb39cb231b2411",
+          "version": "1.0.7"
+        }
+      },
+      {
+        "package": "Sniffer",
+        "repositoryURL": "https://github.com/Kofktu/Sniffer.git",
+        "state": {
+          "branch": null,
+          "revision": "09bb5c3c2f1ab787af6bc2f44c6b615fc497311d",
+          "version": "2.1.2"
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect.git",
+        "state": {
+          "branch": "master",
+          "revision": "72a509c93166540c0adf8323fd2652daade7f9f6",
+          "version": null
+        }
+      },
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image",
+        "state": {
+          "branch": null,
+          "revision": "4042f955f1fdff00ced85545e1eecdbf969b5cd0",
+          "version": "3.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

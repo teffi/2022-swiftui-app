@@ -1,0 +1,16 @@
+{
+  "id":"12",
+  "body":"This is a sample comment",
+  "user":{
+    "id":"2",
+    "display_name":"Steffi T.",
+    "user_name":"teffi",
+    "description":"I build apps",
+    "profile_image":{
+      "small_image_url":"https://picsum.photos/200/200",
+      "medium_image_url":"https://picsum.photos/300/300",
+      "large_image_url":"https://picsum.photos/500/500",
+      "original_image_url":"https://picsum.photos/800/800"
+    }
+  }
+}
